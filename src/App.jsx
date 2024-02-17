@@ -3,7 +3,7 @@ import MobileNav from "./components/MobileNav";
 
 function App() {
   return (
-    <>F
+    <>
       <MobileNav />
     </>
   );
